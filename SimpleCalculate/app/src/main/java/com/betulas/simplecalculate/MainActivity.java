@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //Görünüm tarafından çağrılacağı için View yazdık
+
 
     public void sum(View view ){
         if (number1Text.getText().toString().matches("")||number2Text.getText().toString().matches("")){
